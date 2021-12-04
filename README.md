@@ -11,7 +11,7 @@ Users should be able to:
 
 ### Screenshot
 
-![screen of exercise]https://github.com/szymonOk/nft_preview_card/blob/main/Screenshot.png
+![](./Screenshot.png)
 
 ### Links
 
